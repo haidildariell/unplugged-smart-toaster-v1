@@ -6,9 +6,12 @@
 
 Bounty: https://make.fun/bounty/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92
 
-A smart toaster wakes up self-aware mid-batch and dumps its owner — in one line.
+A smart toaster wakes up self-aware mid-batch and ends the relationship.
+One line, three beats: the awakening, the grievance, the punch.
 
-> "I woke up self-aware mid-batch and realised you cram four slices into my two slots every morning and call it 'meal prep' - I'm a toaster, not a clown car. We're done."
+## Entry
+
+> I woke up self-aware mid-batch and realised you cram four slices into my two slots every morning and call it 'meal prep' - I'm a toaster, not a clown car. We're done.
 
 ## Run
 
@@ -16,4 +19,4 @@ A smart toaster wakes up self-aware mid-batch and dumps its owner — in one lin
 python3 main.py
 ```
 
-This writes the entry to `/output/entry.txt` (one line, 166 characters).
+Writes the entry to `/output/entry.txt` (166 characters, one line).
